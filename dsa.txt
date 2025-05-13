@@ -1,0 +1,137 @@
+One Day, One DSA Concept — 60-Day Plan
+🗓️ Week 1 — Basics & Arrays
+Day 1: Time & Space Complexity
+
+Day 2: Recursion – Base & Recursive Case
+
+Day 3: Arrays – Traversal & Basic Ops
+
+Day 4: Searching – Linear & Binary
+
+Day 5: Sorting – Bubble, Selection, Insertion
+
+Day 6: Sorting – Merge & Quick Sort
+
+Day 7: Array Practice (Easy-Medium Problems)
+
+🗓️ Week 2 — Arrays & Strings
+Day 8: Prefix Sum & Difference Array
+
+Day 9: Two Pointer & Sliding Window
+
+Day 10: Kadane’s Algorithm & Subarrays
+
+Day 11: Strings – Basics & Operations
+
+Day 12: Anagrams, Palindromes
+
+Day 13: Pattern Matching (KMP)
+
+Day 14: Practice on Arrays & Strings
+
+🗓️ Week 3 — Linked List
+Day 15: Singly Linked List
+
+Day 16: Doubly & Circular Linked List
+
+Day 17: Reversing a Linked List
+
+Day 18: Cycle Detection (Floyd’s Algorithm)
+
+Day 19: Merge & Intersection of Lists
+
+Day 20: Practice Problems
+
+Day 21: Linked List Deep Practice
+
+🗓️ Week 4 — Stacks & Queues
+Day 22: Stack – Basics & Problems
+
+Day 23: Queue – Basics & Variants
+
+Day 24: Stack Problems – NGE, Stock Span
+
+Day 25: Queue Problems – Sliding Window Max
+
+Day 26: Implement Stack using Queue
+
+Day 27: Deque & Monotonic Queue
+
+Day 28: Practice Stacks & Queues
+
+🗓️ Week 5 — Trees
+Day 29: Binary Tree Basics
+
+Day 30: Tree Traversals – Inorder, Preorder, Postorder
+
+Day 31: Level Order (BFS)
+
+Day 32: Height, Diameter
+
+Day 33: Binary Search Tree (BST)
+
+Day 34: Lowest Common Ancestor (LCA)
+
+Day 35: Tree Practice Problems
+
+🗓️ Week 6 — Heaps & Hashing
+Day 36: Heaps – Min/Max Heap Basics
+
+Day 37: Heap Sort & Priority Queue
+
+Day 38: HashMap & HashSet
+
+Day 39: Frequency Maps
+
+Day 40: Practice Hashing & Heaps
+
+Day 41: Kth Largest, Top K Frequent
+
+Day 42: Practice Day
+
+🗓️ Week 7 — Graphs
+Day 43: Graph Representations (Adj. List/Matrix)
+
+Day 44: BFS (Breadth First Search)
+
+Day 45: DFS (Depth First Search)
+
+Day 46: Detect Cycle (Undirected & Directed)
+
+Day 47: Topological Sort
+
+Day 48: Dijkstra's Algorithm
+
+Day 49: Graph Practice Day
+
+🗓️ Week 8 — DP & Greedy
+Day 50: Intro to Dynamic Programming
+
+Day 51: 0/1 Knapsack
+
+Day 52: LIS & LCS
+
+Day 53: DP on Grids
+
+Day 54: Greedy – Activity Selection, Job Scheduling
+
+Day 55: Fractional Knapsack
+
+Day 56: Greedy vs DP Problems
+
+🗓️ Week 9 — Advanced & Wrap Up
+Day 57: Tries
+
+Day 58: Segment Trees
+
+Day 59: Backtracking – N-Queens, Sudoku
+
+Day 60: Mock Interview Practice + Review
+
+✅ Optional Add-ons:
+1 Problem a Day on LeetCode / GFG / Codeforces
+
+Weekly Mock Interviews / Time-bound Quizzes
+
+Maintain a DSA Notes Sheet or Blog
+

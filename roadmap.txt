@@ -1,0 +1,192 @@
+
+1. Control Flow and Functions
+Conditional Statements (if, else, elif)
+
+Loops: for, while, and their usages (including nested loops)
+
+Functions: Writing modular code with parameters, return values, and understanding recursion.
+
+Recursion: Start with simple examples like factorial, Fibonacci, and then advance to more complex recursive algorithms like the Tower of Hanoi or solving mazes.
+
+2. Basic Data Structures
+Arrays and Lists:
+
+How to perform operations like insertion, deletion, and searching in arrays/lists.
+
+Python's List methods (e.g., append, pop, remove, insert).
+
+Strings: String manipulations (reversing, substring checks, anagrams, etc.)
+
+Stacks:
+
+Implementing stacks using arrays or linked lists.
+
+Basic operations: push, pop, peek.
+
+Solving problems like balanced parentheses, postfix/prefix expressions, etc.
+
+Queues:
+
+Understanding FIFO behavior.
+
+Implementing queues using arrays or linked lists.
+
+Solving problems like round-robin scheduling, and breadth-first search (BFS) traversal.
+
+3. Advanced Data Structures
+Linked Lists:
+
+Singly, doubly, and circular linked lists.
+
+Implement insertion, deletion, and reversal of linked lists.
+
+Advanced problems like merging two sorted lists, detecting loops, and finding the middle node.
+
+Hashmaps:
+
+Learn the concept of hashing and collisions.
+
+Implement basic hashmap or dictionary-like structures.
+
+Solve problems involving anagrams, counting frequencies, etc.
+
+Trees:
+
+Basic binary trees, binary search trees (BST).
+
+Implement traversal algorithms: In-order, Pre-order, Post-order.
+
+Solve problems related to the height of a tree, balanced tree, and diameter of a tree.
+
+Heaps:
+
+Min-heap and max-heap.
+
+Understanding heapify, insert, and extract-max/min operations.
+
+Applications in priority queues and sorting (heap sort).
+
+Graphs:
+
+Representation of graphs (adjacency list, adjacency matrix).
+
+Implementing basic graph traversals: BFS and DFS.
+
+Solve problems like detecting cycles, shortest path (Dijkstra’s algorithm), and connected components.
+
+4. Algorithms
+Sorting Algorithms:
+
+Understand and implement sorting algorithms: Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Radix Sort.
+
+Compare their time and space complexities.
+
+Solve problems related to sorting and arrays (e.g., finding duplicates, kth largest element).
+
+Searching Algorithms:
+
+Binary Search: Efficient search on sorted data.
+
+Linear Search: Basic search on unsorted data.
+
+Understand and implement binary search in both iterative and recursive forms.
+
+Dynamic Programming:
+
+Understand the concept of breaking down problems into subproblems and memoization.
+
+Solve problems like Fibonacci, 0/1 Knapsack, Longest Common Subsequence, Coin Change, etc.
+
+Greedy Algorithms:
+
+Understand the greedy approach for optimization problems.
+
+Solve problems like fractional knapsack, job scheduling, and interval scheduling.
+
+Backtracking:
+
+Implement backtracking algorithms for problems like N-Queens, Sudoku, subset sum, etc.
+
+Understand when and how backtracking can be used to solve problems efficiently.
+
+Divide and Conquer:
+
+Implement algorithms like Merge Sort, Quick Sort, Binary Search.
+
+Solve problems like finding the closest pair of points, matrix multiplication, etc.
+
+5. Big O Notation (Time and Space Complexity)
+Understand how to calculate the time and space complexity of algorithms using Big O notation.
+
+Learn the difference between best, worst, and average case complexities.
+
+Focus on optimizing algorithms to reduce time and space complexity.
+
+6. Problem Solving Platforms
+Start solving problems regularly on platforms like:
+
+LeetCode
+
+HackerRank
+
+CodeForces
+
+GeeksforGeeks
+
+TopCoder
+
+Focus on easy to medium difficulty problems initially and gradually move to harder problems.
+
+7. Practice, Practice, Practice
+Implement algorithms and data structures from scratch to understand their inner workings.
+
+Solve problems daily to improve your problem-solving ability.
+
+Focus on understanding the underlying concepts rather than just memorizing solutions.
+
+Break down complex problems into smaller parts and solve each part iteratively.
+
+Suggested Roadmap:
+Weeks 1-2: Focus on arrays, strings, stacks, queues, and linked lists.
+
+Weeks 3-4: Move on to trees, graphs, heaps, and hashmaps.
+
+Weeks 5-6: Study sorting, searching, and begin with dynamic programming and greedy algorithms.
+
+Weeks 7-8: Deep dive into advanced algorithms like divide and conquer, backtracking, and more complex dynamic programming problems.
+
+Ongoing: Consistently practice problems, review your solutions, and optimize them for time and space complexity.
+
+
+ Basic Data Types (Remaining)
+🔸 List (Done)
+
+🔸 Tuple — Immutable version of list
+
+🔸 Dictionary — Key-value storage
+
+🔸 Set Advanced Ops — Symmetric difference, subset, etc.
+
+🧠 Core Python Concepts
+🔸 Functions — def, parameters, return
+
+🔸 Conditionals — if, elif, else
+
+🔸 Exception Handling — try, except
+
+🔸 Input Handling — input() usage for CLI apps
+
+🧮 DSA Foundations
+🔸 Searching — Linear, Binary Search
+
+🔸 Sorting — Bubble, Selection, Insertion
+
+🔸 Recursion — Base + recursive cases
+
+🔸 Stacks and Queues
+
+🔸 Linked Lists
+
+🔸 Trees — Binary Trees, Traversals
+
+🔸 Graphs (Basic BFS/DFS)
